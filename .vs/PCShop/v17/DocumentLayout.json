@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Asp\\PCShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9AA089-4D5A-442A-9A63-4B1DA264E099}|PCShop\\PCShop.csproj|d:\\work\\asp\\pcshop\\pcshop\\services\\dbadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9AA089-4D5A-442A-9A63-4B1DA264E099}|PCShop\\PCShop.csproj|solutionrelative:pcshop\\services\\dbadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9AA089-4D5A-442A-9A63-4B1DA264E099}|PCShop\\PCShop.csproj|d:\\work\\asp\\pcshop\\pcshop\\controllers\\pcshopapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9AA089-4D5A-442A-9A63-4B1DA264E099}|PCShop\\PCShop.csproj|solutionrelative:pcshop\\controllers\\pcshopapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9AA089-4D5A-442A-9A63-4B1DA264E099}|PCShop\\PCShop.csproj|d:\\work\\asp\\pcshop\\pcshop\\models\\response\\filterresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9AA089-4D5A-442A-9A63-4B1DA264E099}|PCShop\\PCShop.csproj|solutionrelative:pcshop\\models\\response\\filterresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9AA089-4D5A-442A-9A63-4B1DA264E099}|PCShop\\PCShop.csproj|d:\\work\\asp\\pcshop\\pcshop\\models\\request\\editrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9AA089-4D5A-442A-9A63-4B1DA264E099}|PCShop\\PCShop.csproj|solutionrelative:pcshop\\models\\request\\editrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilterResponse.cs",
+              "DocumentMoniker": "D:\\Work\\Asp\\PCShop\\PCShop\\Models\\Response\\FilterResponse.cs",
+              "RelativeDocumentMoniker": "PCShop\\Models\\Response\\FilterResponse.cs",
+              "ToolTip": "D:\\Work\\Asp\\PCShop\\PCShop\\Models\\Response\\FilterResponse.cs",
+              "RelativeToolTip": "PCShop\\Models\\Response\\FilterResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:51:00.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditRequest.cs",
+              "DocumentMoniker": "D:\\Work\\Asp\\PCShop\\PCShop\\Models\\Request\\EditRequest.cs",
+              "RelativeDocumentMoniker": "PCShop\\Models\\Request\\EditRequest.cs",
+              "ToolTip": "D:\\Work\\Asp\\PCShop\\PCShop\\Models\\Request\\EditRequest.cs",
+              "RelativeToolTip": "PCShop\\Models\\Request\\EditRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:24:03.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBAdapter.cs",
+              "DocumentMoniker": "D:\\Work\\Asp\\PCShop\\PCShop\\Services\\DBAdapter.cs",
+              "RelativeDocumentMoniker": "PCShop\\Services\\DBAdapter.cs",
+              "ToolTip": "D:\\Work\\Asp\\PCShop\\PCShop\\Services\\DBAdapter.cs",
+              "RelativeToolTip": "PCShop\\Services\\DBAdapter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:23:34.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PCShopApiController.cs",
+              "DocumentMoniker": "D:\\Work\\Asp\\PCShop\\PCShop\\Controllers\\PCShopApiController.cs",
+              "RelativeDocumentMoniker": "PCShop\\Controllers\\PCShopApiController.cs",
+              "ToolTip": "D:\\Work\\Asp\\PCShop\\PCShop\\Controllers\\PCShopApiController.cs",
+              "RelativeToolTip": "PCShop\\Controllers\\PCShopApiController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwC0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:31:23.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
